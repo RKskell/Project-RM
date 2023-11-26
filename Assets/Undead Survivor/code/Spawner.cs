@@ -29,7 +29,7 @@ public class Spawner : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
-        level = Mathf.Min(Mathf.FloorToInt(GameManager.Instance.GameTime / 10f),spawnData.Length-1);         
+        level = Mathf.Min(Mathf.FloorToInt(GameManager.instance.GameTime / 10f),spawnData.Length-1);         
 
         if (timer > spawnData[level].spawnTime)
         { //레벨 0일때 소환타이밍 0.5초 시간이 지나면 0.2
@@ -42,7 +42,7 @@ public class Spawner : MonoBehaviour
 
         void Spawn()//spawn 함수 선언 (몬스터 한마리 소환
         {
-            GameObject enemy = GameManager.Instance.pool.Get(0);//레벨에 따라 몬스터 소환량증가
+            GameObject enemy = GameManager.instance.pool.Get(0);//레벨에 따라 몬스터 소환량증가
                                                                 //enemy.transform.position = spawnPoint = spawnPoint[Random.Range(1, spawnPoint.Length)].position;
                                                                 //spawnPont 만들고 주석지울것(영상 31분 30초)
         enemy.transform.position = spawnPoint[Random.Range(1,spawnPoint.Length)].position;
