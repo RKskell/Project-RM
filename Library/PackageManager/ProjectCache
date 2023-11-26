@@ -1,33 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Unity/PJ/Project RM/Packages/manifest.json
+    m_FilePath: C:/Users/jjh/My project (3)/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638363554792493891
-    m_Hash: 3154076697
+      ticks: 638365859078865289
+    m_Hash: 3865882489
   m_LockFileStatus:
-    m_FilePath: C:/Unity/PJ/Project RM/Packages/packages-lock.json
+    m_FilePath: C:/Users/jjh/My project (3)/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638363554792623540
-    m_Hash: 3058225492
+      ticks: 638365859078910297
+    m_Hash: 3578762475
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Unity/PJ/Project RM/Packages
-m_EditorVersion: 2022.3.8f1 (b5eafc012955)
+m_ProjectPath: C:/Users/jjh/My project (3)/Packages
+m_EditorVersion: 2022.3.13f1 (5f90a5ebde0f)
 m_ResolvedPackages:
 - packageId: com.unity.cinemachine@2.9.7
   testable: 0
   isDirectDependency: 1
   version: 2.9.7
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.cinemachine@2.9.7
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.cinemachine@2.9.7
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -196,7 +196,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.2.0
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.collab-proxy@2.2.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.collab-proxy@2.2.0
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -284,13 +284,8 @@ m_ResolvedPackages:
     - 2.1.0
     - 2.2.0
     compatible:
-    - 2.0.7
-    - 2.1.0-preview.3
-    - 2.1.0-preview.5
-    - 2.1.0-preview.6
-    - 2.1.0
     - 2.2.0
-    recommended: 2.0.7
+    recommended: 2.2.0
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -328,7 +323,7 @@ m_ResolvedPackages:
     revision: 33c8fba1793946be3c73f738edf70db0b5546afd
     path: 
   unityLifecycle:
-    version: 2.0.7
+    version: 2.2.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -340,7 +335,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.feature.2d@2.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.feature.2d@2.0.0
   assetPath: Packages/com.unity.feature.2d
   name: com.unity.feature.2d
   displayName: 2D
@@ -383,7 +378,7 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.2d.animation
-    version: 9.0.3
+    version: 9.0.4
   - name: com.unity.2d.common
     version: 8.0.1
   - name: com.unity.2d.sprite
@@ -401,7 +396,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.8.8
+    version: 1.8.9
   - name: com.unity.collections
     version: 1.2.4
   - name: com.unity.test-framework
@@ -421,11 +416,11 @@ m_ResolvedPackages:
   - name: com.unity.modules.tilemap
     version: 1.0.0
   - name: com.unity.2d.tilemap.extras
-    version: 3.1.1
+    version: 3.1.2
   - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.2d.aseprite
-    version: 1.0.0
+    version: 1.0.1
   keywords: []
   registry:
     id: main
@@ -453,12 +448,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ide.rider@3.0.24
+- packageId: com.unity.ide.rider@3.0.26
   testable: 0
   isDirectDependency: 1
-  version: 3.0.24
+  version: 3.0.26
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.ide.rider@3.0.24
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.ide.rider@3.0.26
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -516,8 +511,6 @@ m_ResolvedPackages:
     - 3.0.25
     - 3.0.26
     compatible:
-    - 3.0.24
-    - 3.0.25
     - 3.0.26
     recommended: 3.0.26
     deprecated: []
@@ -538,28 +531,28 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638221653400000000
+  datePublishedTicks: 638326061920000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: f5decc642e3618ce1c6827d47318260e61d64714
+    revision: 2b29b1152946c13d1ecebf6fc681a59cd8b4d399
     path: 
   unityLifecycle:
-    version: 3.0.24
+    version: 3.0.26
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.ide.visualstudio@2.0.18
+- packageId: com.unity.ide.visualstudio@2.0.22
   testable: 0
   isDirectDependency: 1
-  version: 2.0.18
+  version: 2.0.22
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.ide.visualstudio@2.0.18
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -568,7 +561,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: assets
   description: Code editor integration for supporting Visual Studio as code editor
     for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
@@ -601,9 +594,6 @@ m_ResolvedPackages:
     - 2.0.21
     - 2.0.22
     compatible:
-    - 2.0.18
-    - 2.0.20
-    - 2.0.21
     - 2.0.22
     recommended: 2.0.22
     deprecated: []
@@ -630,28 +620,28 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638173205920000000
+  datePublishedTicks: 638326061910000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: 9d3c07127cbe1916b8abbfd18f71fb8d9df8008c
+    revision: 700b44077345e97d37d464ff25507638983aed64
     path: 
   unityLifecycle:
-    version: 2.0.18
+    version: 2.0.22
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.inputsystem@1.6.3
+- packageId: com.unity.inputsystem@1.7.0
   testable: 0
   isDirectDependency: 1
-  version: 1.6.3
+  version: 1.7.0
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.inputsystem@1.6.3
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.inputsystem@1.7.0
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -711,11 +701,10 @@ m_ResolvedPackages:
     - 1.8.0-pre.1
     - 1.8.0-pre.2
     compatible:
-    - 1.6.3
     - 1.7.0
     - 1.8.0-pre.1
     - 1.8.0-pre.2
-    recommended: 1.6.3
+    recommended: 1.7.0
     deprecated: []
   dependencies:
   - name: com.unity.modules.uielements
@@ -748,28 +737,28 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638251794420000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.6/manual/index.html
+  datePublishedTicks: 638277060810000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.7/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/InputSystem.git
-    revision: 0d0891efc00ce912af6f03974eac0b8afd20a8ac
+    revision: e29989176f3a8473ba30854e4bfae953083eba28
     path: 
   unityLifecycle:
-    version: 1.6.3
+    version: 1.7.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.render-pipelines.universal@14.0.8
+- packageId: com.unity.render-pipelines.universal@14.0.9
   testable: 0
   isDirectDependency: 1
-  version: 14.0.8
+  version: 14.0.9
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.render-pipelines.universal@14.0.8
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.render-pipelines.universal@14.0.9
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal RP
@@ -832,27 +821,27 @@ m_ResolvedPackages:
     - 10.9.0
     - 10.10.0
     - 10.10.1
-    - 14.0.8
+    - 14.0.9
     compatible:
-    - 14.0.8
-    recommended: 14.0.8
+    - 14.0.9
+    recommended: 14.0.9
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
     version: 1.2.1
   - name: com.unity.burst
-    version: 1.8.4
+    version: 1.8.9
   - name: com.unity.render-pipelines.core
-    version: 14.0.8
+    version: 14.0.9
   - name: com.unity.shadergraph
-    version: 14.0.8
+    version: 14.0.9
   resolvedDependencies:
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.burst
-    version: 1.8.8
+    version: 1.8.9
   - name: com.unity.render-pipelines.core
-    version: 14.0.8
+    version: 14.0.9
   - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -866,7 +855,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.shadergraph
-    version: 14.0.8
+    version: 14.0.9
   - name: com.unity.searcher
     version: 4.9.2
   keywords:
@@ -895,7 +884,7 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 14.0.8
+    version: 14.0.9
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -907,7 +896,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.test-framework@1.1.33
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1036,7 +1025,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1212,12 +1201,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.timeline@1.7.5
+- packageId: com.unity.timeline@1.7.6
   testable: 0
   isDirectDependency: 1
-  version: 1.7.5
+  version: 1.7.6
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.timeline@1.7.5
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.timeline@1.7.6
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1319,7 +1308,6 @@ m_ResolvedPackages:
     - 1.8.5
     - 1.8.6
     compatible:
-    - 1.7.5
     - 1.7.6
     - 1.8.0
     - 1.8.1
@@ -1364,16 +1352,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638229649600000000
+  datePublishedTicks: 638326112840000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.7/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: fdb1ca9a2c2a131e0ff9cb257b2eae3b53337b3a
+    revision: 02f49ada64a9f88044207cf42ba407dc634ef8e6
     path: 
   unityLifecycle:
-    version: 1.7.5
+    version: 1.7.6
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -1385,7 +1373,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1451,12 +1439,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.visualscripting@1.9.0
+- packageId: com.unity.visualscripting@1.9.1
   testable: 0
   isDirectDependency: 1
-  version: 1.9.0
+  version: 1.9.1
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.visualscripting@1.9.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.visualscripting@1.9.1
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1502,7 +1490,6 @@ m_ResolvedPackages:
     - 1.9.0
     - 1.9.1
     compatible:
-    - 1.9.0
     - 1.9.1
     recommended: 1.9.1
     deprecated:
@@ -1532,16 +1519,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638267547090000000
+  datePublishedTicks: 638284821510000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 21b38599b7fcf9bdccd964bdb90710e6a1094810
+    revision: 5e78e9c354ed1567dbcea08e2bd9992e4a473cfb
     path: 
   unityLifecycle:
-    version: 1.9.0
+    version: 1.9.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -1553,7 +1540,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1608,7 +1595,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1662,7 +1649,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1717,7 +1704,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1772,7 +1759,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1827,7 +1814,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1886,7 +1873,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1949,7 +1936,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2005,7 +1992,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2060,7 +2047,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2115,7 +2102,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2170,7 +2157,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2225,7 +2212,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2280,7 +2267,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2339,7 +2326,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2394,7 +2381,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2457,7 +2444,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2515,7 +2502,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2570,7 +2557,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2637,7 +2624,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2692,7 +2679,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2755,7 +2742,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2810,7 +2797,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2873,7 +2860,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2936,7 +2923,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2999,7 +2986,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3078,7 +3065,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3137,7 +3124,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3204,7 +3191,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3273,7 +3260,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3328,7 +3315,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3395,7 +3382,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3454,7 +3441,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3525,7 +3512,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.mathematics@1.2.6
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -3594,12 +3581,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.burst@1.8.8
+- packageId: com.unity.burst@1.8.9
   testable: 0
   isDirectDependency: 0
-  version: 1.8.8
+  version: 1.8.9
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.burst@1.8.8
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.burst@1.8.9
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -3742,7 +3729,6 @@ m_ResolvedPackages:
     - 1.8.10
     - 1.8.11
     compatible:
-    - 1.8.8
     - 1.8.9
     - 1.8.10
     - 1.8.11
@@ -3765,28 +3751,28 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638271934420000000
+  datePublishedTicks: 638314141790000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: git@github.cds.internal.unity3d.com:unity/burst
-    revision: 7673d9a736112fc9d58f32024c19150c2fa6d8ea
+    revision: 1aa8f2db606554f28aa01007e92600cd24643852
     path: 
   unityLifecycle:
-    version: 1.8.8
+    version: 1.8.9
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.render-pipelines.core@14.0.8
+- packageId: com.unity.render-pipelines.core@14.0.9
   testable: 0
   isDirectDependency: 0
-  version: 14.0.8
+  version: 14.0.9
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.render-pipelines.core@14.0.8
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.render-pipelines.core@14.0.9
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -3905,10 +3891,10 @@ m_ResolvedPackages:
     - 10.9.0
     - 10.10.0
     - 10.10.1
-    - 14.0.8
+    - 14.0.9
     compatible:
-    - 14.0.8
-    recommended: 14.0.8
+    - 14.0.9
+    recommended: 14.0.9
     deprecated: []
   dependencies:
   - name: com.unity.ugui
@@ -3952,19 +3938,19 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 14.0.8
+    version: 14.0.9
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.shadergraph@14.0.8
+- packageId: com.unity.shadergraph@14.0.9
   testable: 0
   isDirectDependency: 0
-  version: 14.0.8
+  version: 14.0.9
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.shadergraph@14.0.8
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.shadergraph@14.0.9
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4080,19 +4066,19 @@ m_ResolvedPackages:
     - 10.9.0
     - 10.10.0
     - 10.10.1
-    - 14.0.8
+    - 14.0.9
     compatible:
-    - 14.0.8
-    recommended: 14.0.8
+    - 14.0.9
+    recommended: 14.0.9
     deprecated: []
   dependencies:
   - name: com.unity.render-pipelines.core
-    version: 14.0.8
+    version: 14.0.9
   - name: com.unity.searcher
     version: 4.9.2
   resolvedDependencies:
   - name: com.unity.render-pipelines.core
-    version: 14.0.8
+    version: 14.0.9
   - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -4127,19 +4113,19 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 14.0.8
+    version: 14.0.9
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.2d.animation@9.0.3
+- packageId: com.unity.2d.animation@9.0.4
   testable: 0
   isDirectDependency: 0
-  version: 9.0.3
+  version: 9.0.4
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.2d.animation@9.0.3
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.2d.animation@9.0.4
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -4148,7 +4134,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 2D
-  type: asset
+  type: assets
   description: 2D Animation provides all the necessary tooling and runtime components
     for skeletal animation using Sprites.
   status: 0
@@ -4273,7 +4259,6 @@ m_ResolvedPackages:
     - 10.0.2
     - 10.0.3
     compatible:
-    - 9.0.3
     - 9.0.4
     recommended: 9.0.4
     deprecated: []
@@ -4306,7 +4291,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.8.8
+    version: 1.8.9
   - name: com.unity.collections
     version: 1.2.4
   - name: com.unity.test-framework
@@ -4326,16 +4311,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638191394980000000
+  datePublishedTicks: 638320873940000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.animation@9.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 7d8e0c5910334b5bcf7795fe32bcde0a11d57109
+    revision: be60dd1716d39b00d03d87668a09a4fc1d4102b6
     path: 
   unityLifecycle:
-    version: 9.0.3
+    version: 9.0.4
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -4347,7 +4332,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 5.0.3
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.3
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -4430,7 +4415,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 8.0.2
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.2d.psdimporter@8.0.2
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.2d.psdimporter@8.0.2
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -4532,7 +4517,7 @@ m_ResolvedPackages:
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.2d.animation
-    version: 9.0.3
+    version: 9.0.4
   - name: com.unity.2d.common
     version: 8.0.1
   - name: com.unity.2d.sprite
@@ -4550,7 +4535,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.8.8
+    version: 1.8.9
   - name: com.unity.collections
     version: 1.2.4
   - name: com.unity.test-framework
@@ -4592,7 +4577,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -4650,7 +4635,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 9.0.2
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.2d.spriteshape@9.0.2
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.2d.spriteshape@9.0.2
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -4778,7 +4763,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.8.8
+    version: 1.8.9
   - name: com.unity.modules.physics2d
     version: 1.0.0
   keywords:
@@ -4819,7 +4804,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.2d.tilemap@1.0.0
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -4887,12 +4872,12 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.2d.tilemap.extras@3.1.1
+- packageId: com.unity.2d.tilemap.extras@3.1.2
   testable: 0
   isDirectDependency: 0
-  version: 3.1.1
+  version: 3.1.2
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.2d.tilemap.extras@3.1.1
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.2d.tilemap.extras@3.1.2
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -4958,7 +4943,6 @@ m_ResolvedPackages:
     - 4.0.1
     - 4.0.2
     compatible:
-    - 3.1.1
     - 3.1.2
     recommended: 3.1.2
     deprecated: []
@@ -5000,28 +4984,28 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638234725240000000
+  datePublishedTicks: 638320873890000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.tilemap.extras@3.1/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/2d-extras.git
-    revision: 04abca0a975bb264c1f7530288b4ddfa2f4c45ea
+    revision: 741b52ca8bcd71b4e016208dbfe792374ca334c8
     path: 
   unityLifecycle:
-    version: 3.1.1
+    version: 3.1.2
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
-- packageId: com.unity.2d.aseprite@1.0.0
+- packageId: com.unity.2d.aseprite@1.0.1
   testable: 0
   isDirectDependency: 0
-  version: 1.0.0
+  version: 1.0.1
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.2d.aseprite@1.0.0
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.2d.aseprite@1.0.1
   assetPath: Packages/com.unity.2d.aseprite
   name: com.unity.2d.aseprite
   displayName: 2D Aseprite Importer
@@ -5030,7 +5014,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 2D
-  type: asset
+  type: assets
   description: 2D Aseprite Importer is a package which enables the import of .aseprite
     files from the Pixel Art tool Aseprite.
   status: 0
@@ -5044,7 +5028,6 @@ m_ResolvedPackages:
     - 1.0.0
     - 1.0.1
     compatible:
-    - 1.0.0
     - 1.0.1
     recommended: 1.0.1
     deprecated: []
@@ -5075,7 +5058,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.8.8
+    version: 1.8.9
   keywords:
   - 2d
   - Aseprite
@@ -5092,16 +5075,16 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638203510100000000
+  datePublishedTicks: 638285549780000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.aseprite@1.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/AsepriteImporter.git
-    revision: 419b070b489a77cf611d9d4ebff29eed4ef0bea7
+    revision: f35a0fd1f63d861882dcf1ab563fa2e23f8566ae
     path: 
   unityLifecycle:
-    version: 1.0.0
+    version: 1.0.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -5113,7 +5096,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.2
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.searcher@4.9.2
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.searcher@4.9.2
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -5185,7 +5168,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 8.0.1
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.2d.common@8.0.1
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.2d.common@8.0.1
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -5282,7 +5265,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.8.8
+    version: 1.8.9
   keywords:
   - 2d
   registry:
@@ -5316,7 +5299,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.4
   source: 1
-  resolvedPath: C:\Unity\PJ\Project RM\Library\PackageCache\com.unity.collections@1.2.4
+  resolvedPath: C:\Users\jjh\My project (3)\Library\PackageCache\com.unity.collections@1.2.4
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5409,6 +5392,7 @@ m_ResolvedPackages:
     - 2.2.1
     - 2.3.0-exp.1
     - 2.3.0-pre.3
+    - 2.4.0-exp.2
     recommended: 1.2.4
     deprecated: []
   dependencies:
@@ -5418,7 +5402,7 @@ m_ResolvedPackages:
     version: 1.1.31
   resolvedDependencies:
   - name: com.unity.burst
-    version: 1.8.8
+    version: 1.8.9
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.test-framework
